@@ -2,8 +2,8 @@
 
 ## Résumé du travail à réaliser
 
-Le travail demandé consiste à réaliser un programme Python en ligne de commande 
-qui affiche une image au format PPM dont le chemin est passé en paramètre au 
+Le travail demandé consiste à réaliser un programme Python en ligne de commande
+qui affiche une image au format PPM dont le chemin est passé en paramètre au
 programme.
 
 ## Description du format PPM
@@ -95,15 +95,16 @@ pourrez présenter sous la forme d'un bref rapport, par exemple dans un fichier
 
 Voici quelques idées d'approfondissements possibles :
 
-- Étudier d'autres formats d'images bitmap (PGM, PBM, PPM P6, BMP, etc.) afin
-  de déterminer comment les afficher.
+- Étudier d'autres formats d'images bitmap (PGM, PBM, PPM P6, BMP, GIF, etc.)
+  afin de déterminer comment les afficher.
 - Réaliser quelques filtres (noir et blanc, séparation des canaux, luminosité,
   inverse, bruit, flou, rotation ou symétrie...) que votre afficheur pourra
   appliquer aux images chargées sur simple pression d'une touche du clavier ou
   d'un bouton sur l'interface.
 - Permettre l'édition d'images à la main par clic sur les pixels (par exemple :
-  édition d'icônes, d'emoji...)
-- Implémenter une fonctionnalité de sauvegarde des images.
+  édition d'icônes, d'emoji...) ou réaliser un jeu de coloriage de pixels.
+- Implémenter une fonctionnalité de sauvegarde des images dans différents
+  formats.
 - Ajouter des paramètres optionnels en ligne de commande (niveau de zoom,
   rotation ou symétrie, format...).
 
