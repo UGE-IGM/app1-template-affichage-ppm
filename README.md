@@ -129,6 +129,6 @@ Pour réaliser cet exercice, vous devez connaître (ou réviser) :
 Il est recommandé de structurer le plus proprement possible votre code à l'aide
 de fonctions, et de respecter les bonnes pratiques de présentation du code
 expliquées par exemple
-[ici](https://python.sdv.univ-paris-diderot.fr/15_bonnes_pratiques/). Un outil
+[ici](https://web.archive.org/web/20240416055417/https://python.sdv.u-paris.fr/15_bonnes_pratiques/). Un outil
 d'analyse de code comme [Pylava](https://pylavadocs.readthedocs.io/en/latest/)
 peut être très utile pour cela.
